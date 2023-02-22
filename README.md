@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋! I'm AmirMahdi MoshtaghNazm.</h1>
 
-
--  I’m currently learning *JS and C++*
--  contact with me: moshtaghnazmamirmahdi@gmail.com
+- 💾 I work on random project in my free time
+- 🌱 I’m currently learning *JS and C++*
+- 📫 contact with me: moshtaghnazmamirmahdi@gmail.com
 
 <h3 align="left" >Languages and tools I can work with:</h3>
 
